@@ -16,5 +16,5 @@ CSS3, SASS, Object Oriented Javascript
 [Instragram](https://www.instagram.com/artsycoder533/)  
 [Youtube](https://www.youtube.com/channel/UCOGjYAACGwNLzYcTpXnvZ_Q)
 
-<figure><embed src="https://wakatime.com/share/@artsycoder533/612f27d3-84f1-477d-ab3c-c6cce062943e.svg"></embed></figure>
+
 
