@@ -11,7 +11,7 @@ Front End Developer
 
 ## Overview
 
-I am currently following The Odin Project's Full Stack Javascript Curriculum. I am also enrolled in CS50x, an open source Introduction to Computer Science course by taught by Harvard University.  I decided to participate in the #100DaysOfCode challenge and document coding web development journey via daily via vlogs on my Youbtube Channel.
+I am currently following The Odin Project's Full Stack Javascript Curriculum. I am also enrolled in CS50x, an open source Introduction to Computer Science course by taught by Harvard University.  I decided to participate in the #100DaysOfCode challenge and document coding web development journey via daily via vlogs on my Youtube Channel.
 
 ### Skills
 
