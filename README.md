@@ -23,7 +23,7 @@ HTML5, CSS3, SASS, Javascript ES6+, React, Styled Components, NPM, Webpack5, Git
 - Portfolio: [https://natashajohnson.dev/](https://natashajohnson.dev/)
 - LinkedIn: [https://www.linkedin.com/in/natasha--johnson/](https://www.linkedin.com/in/natasha--johnson/)
 - Codepen: [https://codepen.io/artsycoder](https://codepen.io/artsycoder)
-- Youtube: [https://www.youtube.com/playlist?list=PL2WqH02famSWb--s57DF9esI-rVUCcilS](https://www.youtube.com/playlist?list=PL2WqH02famSWb--s57DF9esI-rVUCcilS)
+- Youtube: [https://www.youtube.com/channel/UCOGjYAACGwNLzYcTpXnvZ_Q](https://www.youtube.com/channel/UCOGjYAACGwNLzYcTpXnvZ_Q)
   
 
 
