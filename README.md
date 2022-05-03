@@ -1,6 +1,6 @@
 # Natasha Johnson
 
-Self-Taught Front End Developer/Freelancer
+Junior Software Engineer at Township
 
 ## Table of contents
 
