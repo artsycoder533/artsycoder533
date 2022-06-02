@@ -11,13 +11,13 @@ Junior Software Engineer at Township
 
 ## Overview
 
-I am a Self-Taught Front-End Developer/Freelancer who genuinely enjoys creating responsive and interactive websites and applications. I am always seeking to learn new skills and increase my knowledge base. I created a [YouTube channel](https://www.youtube.com/channel/UCOGjYAACGwNLzYcTpXnvZ_Q) to track my progress, as well as share demo videos of projects I am currently working on.
+I am a Junior Software Engineer at Township.  I enjoy all things front-end, but also wouldnt mind dipping my toes into the backend as well! I created a [YouTube channel](https://www.youtube.com/channel/UCOGjYAACGwNLzYcTpXnvZ_Q) to track my progress, as well as share demo videos of projects I am currently working on.
 
-I have a Bachelor of Science Degree in Psychology from Old Dominion University along with 11 years of experience in Corrections, primarily as a Counselor. I have always had a passion for helping others and I now desire to use technology to provide solutions.
+I have a Bachelor of Science Degree in Psychology from Old Dominion University along with 11 years of experience in Corrections, primarily as a Counselor. I have always had a passion for helping others and I now use technology to provide solutions.
 
 ### Skills
 
-React, Styled Components, Javascript ES6+, HTML5, CSS3, SASS, NPM, Git, Webpack5
+React, Next.js, Styled Components, Tailwind, Javascript ES6+, CSS, HTML and I am currently learning Vue and Typescript.
 
 
 ### Links
