@@ -1,6 +1,6 @@
 # Natasha Johnson
 
-Junior Software Engineer at Township
+Software Engineer at Township
 
 ## Table of contents
 
