@@ -11,7 +11,7 @@ Junior Software Engineer at Township
 
 ## Overview
 
-I am a Junior Software Engineer at Township.  I enjoy all things front-end, but also wouldnt mind dipping my toes into the backend as well! I created a [YouTube channel](https://www.youtube.com/channel/UCOGjYAACGwNLzYcTpXnvZ_Q) to track my progress, as well as share demo videos of projects I am currently working on.
+I am a Software Engineer at Township and Freelance Web Developer.  I enjoy all things front-end, but also wouldnt mind dipping my toes into the backend as well! I created a [YouTube channel](https://www.youtube.com/channel/UCOGjYAACGwNLzYcTpXnvZ_Q) to track my progress, as well as share demo videos of projects I am currently working on.
 
 I have a Bachelor of Science Degree in Psychology from Old Dominion University along with 11 years of experience in Corrections, primarily as a Counselor. I have always had a passion for helping others and I now use technology to provide solutions.
 
