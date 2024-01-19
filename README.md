@@ -1,6 +1,6 @@
 # Natasha Johnson
 
-Software Engineer at Township
+Software Engineer @ Township
 
 ## Table of contents
 
@@ -11,7 +11,7 @@ Software Engineer at Township
 
 ## Overview
 
-I am a Software Engineer at Township and Freelance Web Developer.  I enjoy all things front-end, but also wouldnt mind dipping my toes into the backend as well! I created a [YouTube channel](https://www.youtube.com/channel/UCOGjYAACGwNLzYcTpXnvZ_Q) to track my progress, as well as share demo videos of projects I am currently working on.
+I am a Software Engineer at [Township](https://www.township.agency/) and Freelance Web Developer.  I enjoy all things front-end, but also wouldnt mind dipping my toes into the backend as well! I created a [YouTube channel](https://www.youtube.com/channel/UCOGjYAACGwNLzYcTpXnvZ_Q) to track my progress, as well as share demo videos of projects I am currently working on.
 
 ### Skills
 
