@@ -1,6 +1,6 @@
 # Natasha Johnson
 
-Software Engineer @ Township
+Software Engineer @ Township. I ♥️ the Front End!
 
 ## Table of contents
 
