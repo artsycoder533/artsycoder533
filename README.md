@@ -24,7 +24,7 @@ Next.js, React Native, Vue, Typescript, Tailwind, Sanity, Shopify
 - [LinkedIn](https://www.linkedin.com/in/natasha--johnson/)
 - [Codepen](https://codepen.io/artsycoder)
 - [YouTube Channel](https://www.youtube.com/@artsycoder533)
-- [My Freelancing Agency](https://www.ten23.agency/)
+- [Ten-23 Agency](https://www.ten23.agency/)
 
   
 
