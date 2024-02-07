@@ -20,10 +20,10 @@ Next.js, React Native, Vue, Typescript, Tailwind, Sanity, Shopify
 
 ### Links
 
-- Portfolio: [https://natashajohnson.dev/](https://natashajohnson.dev/)
-- LinkedIn: [https://www.linkedin.com/in/natasha--johnson/](https://www.linkedin.com/in/natasha--johnson/)
-- Codepen: [https://codepen.io/artsycoder](https://codepen.io/artsycoder)
-- Youtube: [https://www.youtube.com/channel/UCOGjYAACGwNLzYcTpXnvZ_Q](https://www.youtube.com/channel/UCOGjYAACGwNLzYcTpXnvZ_Q)
+- [Personal Portfolio](https://natashajohnson.dev/)
+- [LinkedIn](https://www.linkedin.com/in/natasha--johnson/)
+- [Codepen](https://codepen.io/artsycoder)
+- [YouTube Channel](https://www.youtube.com/@artsycoder533)
 
   
 
